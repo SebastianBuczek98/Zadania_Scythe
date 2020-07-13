@@ -1,0 +1,3 @@
+﻿  Buczek.cpp
+c:\users\sebastian\source\repos\buczek\buczek\buczek.cpp(12): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+  Buczek.vcxproj -> C:\Users\Sebastian\source\repos\Buczek\Debug\Buczek.exe
